@@ -35,7 +35,7 @@
  *
  * ***** END LICENSE BLOCK ***** */
 
-__ace_shadowed__.define('ace/theme/tomorrow', ['require', 'exports', 'module' ], function(require, exports, module) {
+__ace_shadowed__.define('/ace/theme/tomorrow', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 exports.isDark = false;
 exports.cssClass = "ace-tomorrow";
