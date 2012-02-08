@@ -35,7 +35,7 @@
  *
  * ***** END LICENSE BLOCK ***** */
 
-define('ace/theme/clouds_midnight', ['require', 'exports', 'module' ], function(require, exports, module) {
+define('/ace/theme/clouds_midnight', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 exports.isDark = true;
 exports.cssClass = "ace-clouds-midnight";

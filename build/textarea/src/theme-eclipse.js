@@ -35,7 +35,7 @@
  *
  * ***** END LICENSE BLOCK ***** */
 
-__ace_shadowed__.define('ace/theme/eclipse', ['require', 'exports', 'module' ], function(require, exports, module) {
+__ace_shadowed__.define('/ace/theme/eclipse', ['require', 'exports', 'module' ], function(require, exports, module) {
 "use strict";
 
 exports.isDark = false;

@@ -35,7 +35,7 @@
  *
  * ***** END LICENSE BLOCK ***** */
 
-__ace_shadowed__.define('ace/theme/chrome', ['require', 'exports', 'module' ], function(require, exports, module) {
+__ace_shadowed__.define('/ace/theme/chrome', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 exports.cssClass = "ace-chrome";
 exports.cssText = ".ace-chrome .ace_editor {\
